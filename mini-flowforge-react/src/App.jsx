@@ -20,7 +20,7 @@ import {
   X,
 } from "lucide-react";
 
-const API_BASE = "http://localhost:5002/api";
+const API_BASE = "https://flowforge-ai-yuq5.onrender.com/api";
 
 const agents = [
   { name: "Drafter", role: "AGENT 01", icon: FileText, color: "cyan" },
